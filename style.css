@@ -1,0 +1,13 @@
+.fixx{
+    position: sticky;
+    top: 100%;
+}
+
+body{
+    min-height: 100vh;
+}
+
+#timeDisplay{
+    font-size: 75px;
+    font-family: consolas,monospace;
+}
